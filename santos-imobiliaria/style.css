@@ -1,0 +1,174 @@
+body {
+    margin: 0;
+    font-family: Tahoma, sans-serif;
+}
+
+/* Estilos Globais */
+
+span {
+    font-weight: bold;
+}
+.secao {
+    padding-top: 30px;
+    padding-bottom: 30px;
+    text-align: center;
+}
+
+.paragrafo {
+    margin: 10px auto 10px auto;
+    width: 980px;
+    text-align: justify;
+    font-size: 18px;
+    line-height: 28px;
+}
+/* Fim estilos Globais */
+
+
+/* Início Cabeçalho */
+.secao-cabecalho {
+    background-color: #afddfb;
+}
+
+.secao-cabecalho img {
+    width: 150px;
+}
+
+.paragrafo-cabecalho {
+    margin-top: 15px;
+    margin-bottom: 25px;
+    text-align: center; 
+}
+
+.link-cabecalho {
+    font-size: 18px;
+    color: #1d1d1d;
+    text-decoration: none;
+    border-bottom: 2px solid #1d1d1d;
+    margin: 0 10;
+    margin-left: 10px;    
+}
+
+/* Fim Cabeçalho */
+
+/* Início Banner */
+
+.secao-banner {
+    margin-top: 50px;
+    padding-top: 0;
+}
+
+/* Fim Banner */
+
+/* Início Sobre */
+
+h1{
+    color: #1d1d1d;
+    margin-bottom: 5px;
+}
+
+h2 {
+    color: #1c81c0;
+    font-weight: normal;
+    margin-top: 0;
+}
+
+.imagem {
+    width: 450px;
+}
+
+.destaque-azul {
+    color: #1c81c1;
+}
+
+/* Fim Sobre */
+
+/* Início Serviços */
+
+.secao-servicos {
+    background-color: #1c81c1;
+    color: #fff;
+   
+}
+
+.secao-servicos h3 {
+   
+    font-size: 28px;
+    line-height: 42px;
+}
+
+.paragrafo-servicos {
+    color: #fff;
+    font-size: 22px;
+    line-height: 42px;
+    width: 700px;
+    text-align: center;
+}
+
+.destaque-amarelo {
+    color: #fff81b;
+}
+
+.lista-servicos {
+    margin: 40px auto 40px auto;
+    width: 135px;
+}
+
+.item-servicos {
+    font-size: 22px;
+    line-height: 42px;
+    text-align: left;
+}
+/* Fim Serviços */
+
+/* Início Contato */
+.secao-contato {
+    background-color: #1c81c1;
+}
+
+.secao-contato h3 {
+    font-size: 28px;
+    line-height: 42px;
+    color: #fff;
+}
+
+.paragrafo-contato {
+    color: #fff;
+    background-color: #1d1d1d;
+    padding: 15px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+.lista-contatos {
+    margin: 40px auto 40px auto;
+    list-style: none ;
+    width: 210px;
+}
+
+.item-lista-contato {
+    margin-top: 15px;
+    text-align: center;
+    font-size: 18px;
+}
+
+.link-contato {
+    background-color: #fff;
+    color: #1d80c1;
+    padding: 2px 5px;
+    border-radius: 5px;
+
+}
+
+.rodape {
+   background-color:#1c81c1;
+}
+
+.paragrafo-rodape {
+    font-size: 14px;
+    color: rgba(0, 0, 0, 0.4)
+}
+
+
+
+
+/* Fim Contato */
